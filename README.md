@@ -42,9 +42,6 @@ Installation and Usage:
 Test Files:
 The project includes sample test files (`einstein.txt`, `gettysburg.txt`) and instructions for testing with the *War and Peace* text file.
 
-License:
-This project is open-source and available under the MIT License.
-
 Author:
 Mohammadjavad Aghaeipour Kalyani – First-year Software Engineering Student at the University of Ottawa.
 """
