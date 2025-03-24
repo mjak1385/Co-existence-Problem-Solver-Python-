@@ -36,7 +36,7 @@ Installation and Usage:
    cd coexistence-problem-solver  
 2. Ensure you have Python installed.
 3. Run the program:
-   python a6_part1_xxxxxx.py  
+   python CoPS.py  
 4. Follow the prompts to input filenames and query words.
 
 Test Files:
